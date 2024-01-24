@@ -3,10 +3,6 @@
 
 <a href="https://www.buymeacoffee.com/puneethreddyhc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
-> ## Updated project with extra Features like WISHLIST, List Orders, add Reviews, updated routing, resolved search bug is available for Premium 
-
-[![Youtube Video](https://img.youtube.com/vi/gLwfj67GI8A/0.jpg)](https://youtu.be/gLwfj67GI8A)
-
 <h3>Things I code with</h3>
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -51,12 +47,7 @@
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)  
-    OR follow gitbash commands
-    
-    i>cd C:\\xampp\htdocs\
-    
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+3. Download project by clone command and project link
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -78,45 +69,6 @@
 
 13. admin login details  Email=admin@gmail.com or username = admin and Password=123456789.
 
-## If you like my project 
-Bye me Cup of coffee
-
-
-## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-https://github.com/PuneethReddyHC/event-management
-
-##  If you like my project hit a star button
 
 
 
-# Screenshots
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/adduser.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/adminproductadd.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/manageuser.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/manageuseradmin.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productlistadmin.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productlist.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/cartpage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/homepage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/loginmodal.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/mainpage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productpage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productzoom.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/registermodal.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/searchfilter.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/searchpage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/store.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/storepage.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/storepage1.png)
-
-
-
-
-
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
